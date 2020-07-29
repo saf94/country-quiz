@@ -1,0 +1,47 @@
+{
+    "title": "Country Quiz",
+    "questions": [
+        {
+            "questionName": "Kuala Lumpur is the capital of",
+            "questionAnswers": [
+                {
+                    "answerString": "Vietnam",
+                    "isCorrect": false
+                },
+                {
+                    "answerString": "Malaysia",
+                    "isCorrect": true
+                },
+                {
+                    "answerString": "Sweden",
+                    "isCorrect": false
+                },
+                {
+                    "answerString": "Austria",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "questionName": "Stockholm is the capital of",
+            "questionAnswers": [
+                {
+                    "answerString": "Vietnam",
+                    "isCorrect": false
+                },
+                {
+                    "answerString": "Malaysia",
+                    "isCorrect": false
+                },
+                {
+                    "answerString": "Sweden",
+                    "isCorrect": true
+                },
+                {
+                    "answerString": "Austria",
+                    "isCorrect": false
+                }
+            ]
+        }
+    ]
+}
